@@ -1,5 +1,9 @@
 ### Hi there 👋
 ### Salut tout le monde
+### - 🔭 I’m currently working on Java Spring project 
+### - 🌱 I’m currently learning Java, C++, C, HTML CSS, PHP, MySQL,
+### - 📫 How to reach me: https://www.facebook.com/profile.php?id=100014539386294
+
 
 <!--
 **DialloLamine/DialloLamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
