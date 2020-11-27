@@ -3,6 +3,8 @@
 ### - 🔭 I’m currently working on Java Spring project 
 ### - 🌱 I’m currently learning Java, C++, C, HTML CSS, PHP, MySQL,
 ### - 📫 How to reach me: https://www.facebook.com/profile.php?id=100014539386294
+###- diallo.lamine11958@gmail.com
+### -on IG==> Diallo_IT_Man
 
 
 <!--
