@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i'm looking for my first experiences on the market thanks to give me this opportinuty 👋
 ### Salut tout le monde
 ### - 🔭 I’m currently working on Java Spring project 
 ### - 🌱 I’m currently learning Java, C++, C, HTML CSS, PHP, MySQL,
