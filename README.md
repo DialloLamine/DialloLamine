@@ -1,7 +1,8 @@
 ### Hi there i'm looking for my first experiences on the market thanks to give me this opportinuty 👋
 ### Salut tout le monde
-### - 🔭 I’m currently working on Java Spring project 
-### - 🌱 I’m currently learning Java, C++, C, HTML CSS, PHP, MySQL,
+### - 🔭 I’m currently working on Java Spring boot project 
+### - Maven, gradle, thymeleaf, html5, css, php, MySQL, H2
+### - 🌱 I’m currently improving Java and some framework
 ### - 📫 How to reach me: https://www.facebook.com/profile.php?id=100014539386294
 ### - diallo.lamine11958@gmail.com
 ### -  @G Diallo_IT_Man
